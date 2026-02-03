@@ -1,0 +1,14 @@
+numpy==1.26.3
+pandas==2.3.1
+python-dateutil==2.9.0.post0
+pytz==2025.2
+torch==2.7.1+cu126
+torchaudio==2.7.1+cu126
+torchvision==0.22.1+cu126
+torchmetrics==1.8.2
+matplotlib==3.9.4
+tensorboard==2.20.0
+scipy==1.13.1
+scikit-learn==1.6.1
+sympy==1.13.3
+tqdm==4.67.1

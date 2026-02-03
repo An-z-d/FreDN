@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyTorch
+*.pth
+*.pkl
+*.ckpt
+
+# Training outputs
+checkpoints/
+results/
+test_results/
+exp_results/
+*.log
+runs/
+wandb/
+
+# Tensorboard
+events.out.tfevents.*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data (optional - uncomment if you don't want to upload datasets)
+# dataset/
+# data/
+# *.csv
+# *.npy
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+compare_init.png
+dataset/electricity/electricity.csv 
+dataset/traffic/traffic.csv 
