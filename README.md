@@ -73,16 +73,18 @@ bash scripts/weather.sh
 If you find this work helpful, please cite:
 
 ```bibtex
-@misc{an2025frednspectraldisentanglementtime,
-      title={FreDN: Spectral Disentanglement for Time Series Forecasting via Learnable Frequency Decomposition}, 
-      author={Zhongde An and Jinhong You and Jiyanglin Li and Yiming Tang and Wen Li and Heming Du and Shouguo Du},
-      year={2025},
-      eprint={2511.11817},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML},
-      url={https://arxiv.org/abs/2511.11817}, 
+@article{an2026fredn,
+  title   = {FreDN: Spectral Disentanglement for Time Series Forecasting via Learnable Frequency Decomposition},
+  author  = {An, Zhongde and You, Jinhong and Li, Jiyanglin and Tang, Yiming and Li, Wen and Du, Heming and Du, Shouguo},
+  journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume  = {40},
+  number  = {24},
+  pages   = {19623--19631},
+  year    = {2026},
+  month   = mar,
+  doi     = {10.1609/aaai.v40i24.39042},
+  url     = {https://ojs.aaai.org/index.php/AAAI/article/view/39042}
 }
-```
 
 ## License
 
